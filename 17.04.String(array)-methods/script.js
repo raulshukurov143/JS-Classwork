@@ -20,7 +20,7 @@ console.log(newArr);
 // 5.Find index of first 'r' (excepting 'are').
 console.log(text.toLocaleLowerCase().indexOf("r",5));
 // 6.Find out vowels in 'text' and add them to 'newArr' which contains unique values.
-//  let vowels = ['a', 'i', 'o', 'u', 'e']
+ let vowels = ['a', 'i', 'o', 'u', 'e']
 // 3.Write a function(arrow function) called 'calcArea()' which to calculate sum region's area,
 //  if region's length is equal to 6 in 'arr2'.
 const arr3 = [
